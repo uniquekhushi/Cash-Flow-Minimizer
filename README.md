@@ -15,3 +15,5 @@ This matrix is used to calculate the net amounts owed by each bank and to track 
 3. Priority Queue (Implicit):
 
 Although not explicitly implemented as a priority queue, the repeated process of finding the bank with the maximum and minimum net amounts functions similarly to how a priority queue would operate in terms of always selecting the highest-priority elements (largest debt and largest credit).
+
+Given In

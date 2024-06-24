@@ -17,6 +17,7 @@ This matrix is used to calculate the net amounts owed by each bank and to track 
 Although not explicitly implemented as a priority queue, the repeated process of finding the bank with the maximum and minimum net amounts functions similarly to how a priority queue would operate in terms of always selecting the highest-priority elements (largest debt and largest credit).
 
 Given Input :
+<img width="530" alt="Screenshot 2024-06-24 165826" src="https://github.com/uniquekhushi/Cash-Flow-Minimizer/assets/112020768/46655de6-9bd4-4b05-aef2-b43509f09e5c">
 
 
 
